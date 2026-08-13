@@ -1,0 +1,11 @@
+file_format: "1"
+id: ks33
+name: ks33
+type: shield
+url: https://github.com/manofthebees/ks33-zmk
+requires: [nice_nano_v2]
+features:
+  -keys
+siblings:
+  - ks33_left
+  - ks33_right
